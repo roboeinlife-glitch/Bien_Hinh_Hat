@@ -45,10 +45,12 @@ Một chương trình trực quan hóa 3D đẹp mắt sử dụng **SFML**, hi�
 ### Cách build & chạy
 
 #### Windows (Visual Studio, Code::Blocks hoặc MinGW)
-```bash
-g++ -O2 main.cpp -o ParticleMorph.exe -lsfml-graphics -lsfml-window -lsfml-system
-./ParticleMorph.exe
+bash
+`g++ -O2 main.cpp -o ParticleMorph.exe -lsfml-graphics -lsfml-window -lsfml-system
+./ParticleMorph.exe`
 
-Chương trình được khởi tạo bởi ![DeepSeeK AI] Và hoàn thiện bởi ![Grok AI]
+Chương trình được khởi tạo bởi ![DeepSeek AI] và hoàn thiện bởi ![Grok AI]
 
-[Trở về trang chủ]([Trở về trang chủ](https://github.com/roboeinlife-glitch)
+[Trở về trang chủ](https://github.com/roboeinlife-glitch)
+
+
