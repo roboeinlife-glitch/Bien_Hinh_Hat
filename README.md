@@ -58,6 +58,7 @@ bash
 Dự án này là kết quả của sự hợp tác vui vẻ giữa con người và hai trợ lý AI tuyệt vời. ❤️
 
 Enjoy the beauty of 3D particles! ✨
+[Demo](https://www.youtube.com/watch?v=5XdK-0jnV7o)
 
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
 
