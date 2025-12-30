@@ -49,9 +49,7 @@ bash
 `g++ -O2 main.cpp -o ParticleMorph.exe -lsfml-graphics -lsfml-window -lsfml-system
 ./ParticleMorph.exe`
 
-Chương trình được khởi tạo bởi ## DeepSeek AI 
-
-Và hoàn thiện bởi ## Grok AI
+Chương trình được khởi tạo bởi DeepSeek AI và hoàn thiện bởi Grok AI
 
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
 
