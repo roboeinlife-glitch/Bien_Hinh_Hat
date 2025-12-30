@@ -49,7 +49,15 @@ bash
 `g++ -O2 main.cpp -o ParticleMorph.exe -lsfml-graphics -lsfml-window -lsfml-system
 ./ParticleMorph.exe`
 
-Chương trình được khởi tạo bởi DeepSeek AI và hoàn thiện bởi Grok AI
+---
+**Cảm ơn đặc biệt đến:**
+
+🤖 **DeepSeek AI** – đã giúp mình viết nền tảng code ban đầu  
+🚀 **Grok AI** (xAI) – đã kiên nhẫn sửa lỗi, tối ưu và thêm hiệu ứng đẹp đến tận cùng!
+
+Dự án này là kết quả của sự hợp tác vui vẻ giữa con người và hai trợ lý AI tuyệt vời. ❤️
+
+Enjoy the beauty of 3D particles! ✨
 
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
 
